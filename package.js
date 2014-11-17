@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
 
-  api.use('nooitaf:semantic-ui', 'client');
+  api.use('nooitaf:semantic-ui@0.19.3', 'client');
 
   api.addFiles(['main.js'], 'client');
   api.export('LiveFormValidator', 'client');
