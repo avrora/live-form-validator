@@ -1,0 +1,8 @@
+{
+  "name": "live-form-validator",
+  "description": "Validate Semantic UI fields on live",
+  "homepage": "https://github.com/avrora/live-form-validator",
+  "author": "Alvaro Martín <alvaro@avrora.io>",
+  "version": "1.0.0",
+  "git": "https://github.com/avrora/live-form-validator"
+}
